@@ -1,6 +1,10 @@
 # Adopt pets
 
-https://www.petfinder.com/ find animals that are available for adoption across the United States.
+## Summary
+
+find animals that are available for adoption
+
+## Setup
 
 1. Clone repository
 

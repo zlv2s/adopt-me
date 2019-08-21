@@ -4,7 +4,8 @@
   "scripts": {
     "format": "prettier \"src/**/*.{js,html}\" --write",
     "lint": "eslint \"src/**/*.{js,jsx}\"",
-    "dev": "parcel src/index.html"
+    "dev": "parcel src/index.html",
+    "build": "parcel build src/index.html --no-source-maps"
   },
   "main": "index.js",
   "license": "MIT",
